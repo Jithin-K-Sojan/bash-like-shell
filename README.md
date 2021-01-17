@@ -6,8 +6,8 @@ For example:
   $ ls -l || wc, sort
   This is a valid command; it gives two outputs correspondeing to wc and sort.
 
-1.SIGINT(Ctrl+C) to view the last 10 commands that very given to the shell.
-2.SIGQUIT(Ctrl+\) to exit the shell.
+SIGINT(Ctrl+C) to view the last 10 commands that very given to the shell.
+SIGQUIT(Ctrl+\) to exit the shell.
 
 Look at **DesignDoc.pdf** for details about the shell.
 
